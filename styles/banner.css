@@ -1,0 +1,16 @@
+.banner {
+    background: rgb(216, 41, 70);
+    color: var(--branco);
+    text-align: center;
+}
+
+.banner_titulo {
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+.banner_texto {
+    font-weight: 500;
+    margin: 1em 0;
+}
