@@ -8,3 +8,12 @@
     font-weight: 700;
     padding: 1em 0 0.5em 0;
 }
+
+.swiper-slide img {
+    width: 90%;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+    display: none;
+}
